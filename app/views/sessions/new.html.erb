@@ -1,0 +1,6 @@
+<% content_for :head do %>
+  <meta name="google-signin-client_id" content="<%= ENV.fetch("GOOGLE_OAUTH_CLIENT_ID") %>">
+  <%= javascript_include_tag "https://apis.google.com/js/platform.js", async: true, defer: true %>
+<% end %>
+
+<div class="g-signin2" data-onsuccess="onSignIn"></div>

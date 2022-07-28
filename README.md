@@ -37,6 +37,6 @@ rails new --minimal --database postgresql oastat
 2. Create a project in Google Cloud Platform (GCP)
 3. In GCP set up OAuth Consent Screen
 4. Generate a privacy policy with [App Privacy Policy Generator][1]
-
+5. Create OAuth Client ID and remember client ID and secret
 
 [1]: https://github.com/nisrulz/app-privacy-policy-generator
