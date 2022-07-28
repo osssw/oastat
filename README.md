@@ -22,3 +22,17 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+## Purpose
+
+It is an educational project where I want to implement an OAuth2 authentication.
+
+## Done
+
+1. Create project with
+```bash
+rails new --minimal --database postgresql oastat
+```
+2. Create a project in Google Cloud Platform (GCP)
+3. In GCP set up OAuth Consent Screen
