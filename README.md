@@ -39,4 +39,4 @@ rails new --minimal --database postgresql oastat
 4. Generate a privacy policy with [App Privacy Policy Generator][1]
 
 
-1: https://github.com/nisrulz/app-privacy-policy-generator
+[1]: https://github.com/nisrulz/app-privacy-policy-generator
